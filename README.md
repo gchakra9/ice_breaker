@@ -6,4 +6,5 @@
 # pipenv install langchain-openai
 # pipenv install langchain-community
 # pipenv install langchainhub
+# pipenv install dotenv
 
